@@ -4,236 +4,236 @@ Appendix: HTML5 Tags
 New in HTML5
 ------------
 
-### Article (<article>)
+### Article (&lt;article&gt;)
 
-### Aside (<aside>)
+### Aside (&lt;aside&gt;)
 
-### Audio (<audio>)
+### Audio (&lt;audio&gt;)
 
-### Bi-Directional Isolation (<bdi>)
+### Bi-Directional Isolation (&lt;bdi&gt;)
 
-### Canvas (<canvas>)
+### Canvas (&lt;canvas&gt;)
 
-### Command (<command>)
+### Command (&lt;command&gt;)
 
-### Data List (<datalist>)
+### Data List (&lt;datalist&gt;)
 
-### Details (<details>)
+### Details (&lt;details&gt;)
 
-### Embed (<embed>)
+### Embed (&lt;embed&gt;)
 
-### Figure Caption (<figcaption>)
+### Figure Caption (&lt;figcaption&gt;)
 
-### Figure (<figure>)
+### Figure (&lt;figure&gt;)
 
-### Footer Section (<footer>)
+### Footer Section (&lt;footer&gt;)
 
-### Header Section (<header>)
+### Header Section (&lt;header&gt;)
 
-### Header Group (<hgroup>)
+### Header Group (&lt;hgroup&gt;)
 
-### Key-pair Generator Field (<keygen>)
+### Key-pair Generator Field (&lt;keygen&gt;)
 
-### Marked (<mark>)
+### Marked (&lt;mark&gt;)
 
-### Meter (<meter>)
+### Meter (&lt;meter&gt;)
 
-### Navigation Section (<nav>)
+### Navigation Section (&lt;nav&gt;)
 
-### Output (<output>)
+### Output (&lt;output&gt;)
 
-### Progress (<progress>)
+### Progress (&lt;progress&gt;)
 
-### No Ruby Annotation Support (<rp>)
+### No Ruby Annotation Support (&lt;rp&gt;)
 
-### Ruby Explanation/Pronunciation (<rt>)
+### Ruby Explanation/Pronunciation (&lt;rt&gt;)
 
-### Ruby Annotation (<ruby>)
+### Ruby Annotation (&lt;ruby&gt;)
 
-### Section (<section>)
+### Section (&lt;section&gt;)
 
-### Source Multiple Media Elements (<source>)
+### Source Multiple Media Elements (&lt;source&gt;)
 
-### Summary (<summary>)
+### Summary (&lt;summary&gt;)
 
-### Time (<time>)
+### Time (&lt;time&gt;)
 
-### Track (<track>)
+### Track (&lt;track&gt;)
 
-### Video (<video>)
+### Video (&lt;video&gt;)
 
-### Possible Line-Break (<wbr>)
+### Possible Line-Break (&lt;wbr&gt;)
 
 Supported Tags
 --------------
 
-### Comment (<!-- -->)
+### Comment (&lt;!-- --&gt;)
 
-### Doctype (<!doctype>)
+### Doctype (&lt;!doctype&gt;)
 
-### Anchor (<a>)
+### Anchor (&lt;a&gt;)
 
-### Address (<address>)
+### Address (&lt;address&gt;)
 
-### Bold (<b>)
+### Bold (&lt;b&gt;)
 
-### Base (<base>)
+### Base (&lt;base&gt;)
 
-### Bi-Directional Override (<bdo>)
+### Bi-Directional Override (&lt;bdo&gt;)
 
-### Blockquote (<blockquote>)
+### Blockquote (&lt;blockquote&gt;)
 
-### Body (<body>)
+### Body (&lt;body&gt;)
 
-### Line Break (<br>)
+### Line Break (&lt;br&gt;)
 
-### Button (<button>)
+### Button (&lt;button&gt;)
 
-### Caption (<caption>)
+### Caption (&lt;caption&gt;)
 
-### Cite (<cite>)
+### Cite (&lt;cite&gt;)
 
-### Code (<code>)
+### Code (&lt;code&gt;)
 
-### Column (<col>)
+### Column (&lt;col&gt;)
 
-### Column Group (<colgroup>)
+### Column Group (&lt;colgroup&gt;)
 
-### Definition Description (<dd>)
+### Definition Description (&lt;dd&gt;)
 
-### Deleted (<del>)
+### Deleted (&lt;del&gt;)
 
-### Definition Term (<dfn>)
+### Definition Term (&lt;dfn&gt;)
 
-### Division (<div>)
+### Division (&lt;div&gt;)
 
-### Definition List (<dl>)
+### Definition List (&lt;dl&gt;)
 
-### Definition Term (<dt>)
+### Definition Term (&lt;dt&gt;)
 
-### Emphasis (<em>)
+### Emphasis (&lt;em&gt;)
 
-### Field Set (<fieldset>)
+### Field Set (&lt;fieldset&gt;)
 
-### Headers (<h1>..<h6>)
+### Headers (&lt;h1&gt;..&lt;h6&gt;)
 
-### Head (<head>)
+### Head (&lt;head&gt;)
 
-### Horizontal Rule (<hr>)
+### Horizontal Rule (&lt;hr&gt;)
 
-### HTML (<html>)
+### HTML (&lt;html&gt;)
 
-### Italics (<i>)
+### Italics (&lt;i&gt;)
 
-### Inline Frame (<iframe>)
+### Inline Frame (&lt;iframe&gt;)
 
-### Image (<img>)
+### Image (&lt;img&gt;)
 
-### Input (<input>)
+### Input (&lt;input&gt;)
 
-### Inserted (<ins>)
+### Inserted (&lt;ins&gt;)
 
-### Keyboard Input (<kbd>)
+### Keyboard Input (&lt;kbd&gt;)
 
-### Label (<label>)
+### Label (&lt;label&gt;)
 
-### Legend (<legend>)
+### Legend (&lt;legend&gt;)
 
-### List Item (<li>)
+### List Item (&lt;li&gt;)
 
-### Link (<link>)
+### Link (&lt;link&gt;)
 
-### Map (<map>)
+### Map (&lt;map&gt;)
 
-### Menu (<menu>)
+### Menu (&lt;menu&gt;)
 
-### Meta (<meta>)
+### Meta (&lt;meta&gt;)
 
-### No-Script (<noscript>)
+### No-Script (&lt;noscript&gt;)
 
-### Object (<object>)
+### Object (&lt;object&gt;)
 
-### Ordered List (<ol>)
+### Ordered List (&lt;ol&gt;)
 
-### Option (<option>)
+### Option (&lt;option&gt;)
 
-### Option Group (<optgroup>)
+### Option Group (&lt;optgroup&gt;)
 
-### Paragraph (<p>)
+### Paragraph (&lt;p&gt;)
 
-### Parameter (<param>)
+### Parameter (&lt;param&gt;)
 
-### Pre-formatted (<pre>)
+### Pre-formatted (&lt;pre&gt;)
 
-### Quotation (<q>)
+### Quotation (&lt;q&gt;)
 
-### Incorrect (<s>)
+### Incorrect (&lt;s&gt;)
 
-### Sample Output (<samp>)
+### Sample Output (&lt;samp&gt;)
 
-### Script (<script>)
+### Script (&lt;script&gt;)
 
-### Selection (<select>)
+### Selection (&lt;select&gt;)
 
-### Small (<small>)
+### Small (&lt;small&gt;)
 
-### Span (<span>)
+### Span (&lt;span&gt;)
 
-### Strong (<strong>)
+### Strong (&lt;strong&gt;)
 
-### Style (<style>)
+### Style (&lt;style&gt;)
 
-### Subscripted (<sub>)
+### Subscripted (&lt;sub&gt;)
 
-### Superscripted (<sup>)
+### Superscripted (&lt;sup&gt;)
 
-### Table (<table>)
+### Table (&lt;table&gt;)
 
-### Table Body (<tbody>)
+### Table Body (&lt;tbody&gt;)
 
-### Table Cell (<td>)
+### Table Cell (&lt;td&gt;)
 
-### Text Area (<textarea>)
+### Text Area (&lt;textarea&gt;)
 
-### Table Footer (<tfoot>)
+### Table Footer (&lt;tfoot&gt;)
 
-### Table Header Cell (<th>)
+### Table Header Cell (&lt;th&gt;)
 
-### Table Header (<thead>)
+### Table Header (&lt;thead&gt;)
 
-### Title (<title>)
+### Title (&lt;title&gt;)
 
-### Table Row (<tr>)
+### Table Row (&lt;tr&gt;)
 
-### Underlined (<u>)
+### Underlined (&lt;u&gt;)
 
-### Unordered List (<ul>)
+### Unordered List (&lt;ul&gt;)
 
-### Variable (<var>)
+### Variable (&lt;var&gt;)
 
 No Longer Supported
 -------------------
 
-### Acronym (<acronym>)
+### Acronym (&lt;acronym&gt;)
 
-### Applet (<applet>)
+### Applet (&lt;applet&gt;)
 
-### Base Font (<basefont>)
+### Base Font (&lt;basefont&gt;)
 
-### Big (<big>)
+### Big (&lt;big&gt;)
 
-### Center (<center>)
+### Center (&lt;center&gt;)
 
-### Directory (<dir>)
+### Directory (&lt;dir&gt;)
 
-### Font (<font>)
+### Font (&lt;font&gt;)
 
-### Frame (<frame>)
+### Frame (&lt;frame&gt;)
 
-### Frame Set (<frameset>)
+### Frame Set (&lt;frameset&gt;)
 
-### No-Frames (<noframes>)
+### No-Frames (&lt;noframes&gt;)
 
-### Strike-out (<strike>)
+### Strike-out (&lt;strike&gt;)
 
-### Tele-type (<tt>)
+### Tele-type (&lt;tt&gt;)
