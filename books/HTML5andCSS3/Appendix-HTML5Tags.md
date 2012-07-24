@@ -277,7 +277,11 @@ Defines a link or reference to additional resources, such as XML or CSS.
 
 ### Map (&lt;map&gt;)
 
+Defines client-side image-map.
+
 ### Menu (&lt;menu&gt;)
+
+Defines a list/menu of commands.
 
 ### Meta (&lt;meta&gt;)
 
@@ -288,6 +292,8 @@ Defines meta-data variables in the document's &lt;head&gt;.
 What to display if the browser does not support JavaScript.
 
 ### Object (&lt;object&gt;)
+
+Defines an embedded object.
 
 ### Ordered List (&lt;ol&gt;)
 
@@ -315,9 +321,15 @@ Defines that the text is pre-formatted, and certain HTML rules should not apply.
 
 ### Quotation (&lt;q&gt;)
 
+Defines a short quotation.
+
 ### Incorrect (&lt;s&gt;)
 
+Defines text that is no longer correct.
+
 ### Sample Output (&lt;samp&gt;)
+
+Defines sample output from a computer program.
 
 ### Script (&lt;script&gt;)
 
@@ -357,19 +369,35 @@ Defines a table of data.
 
 ### Table Body (&lt;tbody&gt;)
 
+Groups the body content in a table.
+
 ### Table Cell (&lt;td&gt;)
+
+Defines a cell in a table.
 
 ### Text Area (&lt;textarea&gt;)
 
+Defines a multiline input control (text area).
+
 ### Table Footer (&lt;tfoot&gt;)
+
+Groups the footer content in a table.
 
 ### Table Header Cell (&lt;th&gt;)
 
+Defines a header in a cell table.
+
 ### Table Header (&lt;thead&gt;)
+
+Groups the header content in a table.
 
 ### Title (&lt;title&gt;)
 
+Defines the title in a document.
+
 ### Table Row (&lt;tr&gt;)
+
+Defines a row in a table.
 
 ### Underlined (&lt;u&gt;)
 
